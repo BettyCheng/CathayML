@@ -5,6 +5,7 @@
 ## 目錄
 | **Index** | **Folder** | **Topic** | **Speaker** |
 |-----|------|-----|-----|
+<<<<<<< HEAD
 |1| 20190114 | Intro NLP | Danny Fu |
 |2| 20190128 | Bag of Words Meets Bags of Popcorn | Scott Liu |
 |3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
@@ -42,3 +43,6 @@
 |35| 20191104 | Pipeline | Danny Fu|
 |36| 20191111 | Sales Forecasting | Lawrence Chiu|
 |37| 20191125 | Design Pattern | James Lai|
+=======
+|1| 20191021 | Anomaly detection | Jimmy Wu|
+>>>>>>> master
