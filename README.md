@@ -38,4 +38,7 @@
 |31| 20190915-2 | Named-entity recognition | Scott Liu|
 |32| 20190923 | Dynamic Time Warping | Tom Chiang|
 |33| 20191007 | Anti-Money Laundering | Oneil Hsiao|
-|34| 20191021 | ????? | Jimmy Wu|
+|34| 20191021 | Anomaly Detection | Jimmy Wu|
+|35| 20191104 | Pipeline | Danny Fu|
+|36| 20191111 | Sales Forecasting | Lawrence Chiu|
+|37| 20191125 | Design Pattern | James Lai|
