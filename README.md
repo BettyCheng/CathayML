@@ -11,3 +11,4 @@
 |4| 20191125 | Design Pattern | James Lai|
 |5| 20191205 | Community Dectection & Importance Ranking | Winnie Wu
 |6| 20191210 | Collaborative Filtering (ALS) | Willian Lin
+|7| 20191220 | Graph Embedding: Node2Vec | Willian Lin & Melissa Kuo
