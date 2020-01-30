@@ -46,3 +46,4 @@
 |39| 20191210 | Collaborative Filtering (ALS) | Willian Lin
 |40| 20191220 | Graph Embedding: Node2Vec | Willian Lin & Melissa Kuo
 |41| 20200113 | Graph Convolutional Network | Scott Liu
+|42| 20200120 | Contexual Anomaly Detection | Jimmy Wu & Winnie Wu
