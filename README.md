@@ -47,3 +47,4 @@
 |40| 20191220 | Graph Embedding: Node2Vec | Willian Lin & Melissa Kuo
 |41| 20200113 | Graph Convolutional Network | Scott Liu
 |42| 20200120 | Contexual Anomaly Detection | Jimmy Wu & Winnie Wu
+|43| 20200214 | Explainable AI (XAI) | James Lai & Miriam Chou
