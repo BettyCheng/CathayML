@@ -49,3 +49,4 @@
 |42| 20200120 | Contexual Anomaly Detection | Jimmy Wu & Winnie Wu
 |43| 20200214 | Explainable AI (XAI) | James Lai & Miriam Chou
 |44| 20200220 | Cathay Embedding Language Learner (CELL) | Oneil Hsiao & Danny Fu
+|45| 20200227 | Attention Mechanism | Tom Chiang & Lawrence Chiu
